@@ -1,3 +1,3 @@
+<link href="/assets/style.css" rel="stylesheet"></link>
 # Kuan Hui 
-## kkuanhui
-I love JavaScript yello.
+I love JavaScript.
