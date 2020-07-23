@@ -1,5 +1,5 @@
 <link href="/assets/style.css" rel="stylesheet"></link>
 
-# Kuan Hui 
+# Kuan Hui 🔥🚀
 
 I love JavaScript.
