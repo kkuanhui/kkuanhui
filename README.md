@@ -1,3 +1,2 @@
-# Kuan Hui 🔥🚀
-
-I love JavaScript.
+# KuanHui 🔥🚀
+JavaScript developer.
