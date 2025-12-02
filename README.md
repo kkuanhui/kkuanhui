@@ -1,2 +1,2 @@
 # KuanHui 🔥🚀
-JavaScript developer.
+Go checkout my blog. https://kkuanhui.github.io/
